@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<wizard>
+    <component title="controller">
+        
+        
+    </component>
+    <component title="Java Agent">
+        <option>
+            <type>JAgent one</type>
+            <workaround>description one</workaround>
+        </option>
+        <option>
+            <type>JAgent two</type>
+            <workaround>description two</workaround>
+        </option>
+        
+    </component>
+</wizard>
